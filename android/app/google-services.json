@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791622502081",
+    "project_id": "airplane-1966c",
+    "storage_bucket": "airplane-1966c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791622502081:android:ca1e59b1b6753dc0dc3640",
+        "android_client_info": {
+          "package_name": "com.wito.airplane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGAh1b3JIUtJqcqRVsfAGPdOaJoevlvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
